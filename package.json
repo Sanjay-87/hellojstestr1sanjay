@@ -1,4 +1,5 @@
 {
+  "name": "hellojstestr1sanjay",
   "main": "index.js",
   "scripts": {
     "android": "react-native run-android",
@@ -23,5 +24,6 @@
   "devDependencies": {
     "@babel/core": "^7.9.0"
   },
-  "private": true
+  "private": false,
+  "version": "0.0.1"
 }
